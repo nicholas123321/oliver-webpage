@@ -1,0 +1,365 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Squada+One');
+<link href="https://fonts.googleapis.com/css?family=Squada+One" rel="stylesheet">
+
+body
+{
+	font-family:sans-serif;
+	line-height:14px;
+	
+}
+
+
+.navbar1
+{
+	
+  background-color: #ffffff;
+}
+
+ .navbar-header
+{
+	float:right;
+	
+}
+
+.navbar1 .navbar-header li a
+{
+	font-family: 'Roboto', sans-serif;
+	font-size:14px;
+	color:black;
+	font-stretch: condensed;
+	float:right;
+	
+	
+}
+.navbar1 .navbar-header li a:hover
+{
+	
+	background-color:#ff7418;
+	
+	
+}
+.navbar2
+{
+
+ 
+   background-color: #060e59; 
+
+ 
+}
+
+ .navbar-nav
+{
+
+margin-right:80px;
+
+	
+}
+
+
+ .navbar2 .navbar-header li a
+{
+	font-family: 'Squada One', cursive;
+	font-size:24px;
+	color:white;
+	
+} 
+
+.navbar2 .navbar-header li a:hover
+{
+	
+	background-color:#ff7418;
+	
+}
+.navbar1 .navbar-toggle
+{
+	border:1px solid black;
+}
+.navbar1 .icon-bar
+{
+	background-color:black;
+}
+
+.navbar2 .navbar-toggle
+{
+	border:1px solid white;
+}
+.navbar2 .icon-bar
+{
+	background-color:white;
+}
+
+.hero-section
+{
+	border-top:5px solid red;
+	height:180px;
+	color:white;
+	font-size:43px;
+	text-align:center;
+	background-color:#060e57;
+font-family: 'Squada One', cursive;
+	
+}
+
+.news
+{
+	color:white;
+	margin-top:47px;
+	font-size:41px;
+	font-family: 'Squada One', cursive;
+	
+	
+	
+}
+
+/* .latest-news-block
+{
+	
+	height:10px;
+	width:100%;
+	font-size:21px;
+	color:#060e57;
+	text-decoration:underline;
+	font-family: 'Roboto', sans-serif;
+	
+
+} */
+.latest
+{
+	color:#060e57;
+	
+	
+ font-family: 'Squada One', cursive;
+ 
+  
+  margin-left:137px;;
+}
+
+.underline
+{
+	
+	text-decoration-color: #ee7306;
+}
+
+/* .content
+{
+	
+	font-family: 'Roboto', sans-serif;
+	width:1200px;
+	margin:
+	
+
+
+	/* height:200px; */
+}
+ */
+
+ 
+ .form-inline
+{
+	
+	
+	
+	
+	margin-left:200px;
+	font-size:13px;
+	padding-bottom:42px;
+	 text-align: left;
+	  border-bottom:1px solid grey; 
+	  border-top:1pxsolid grey;
+	  color: var(--night-blue);
+	  font-family: 'Roboto', sans-serif;
+	  
+}
+.form-group
+{
+	float:right;
+	padding-right:20px;
+	
+	
+
+	
+}
+
+.lable
+{
+	padding-right:10px;
+}
+
+
+.last
+{
+	font-family:'Roboto';
+	margin:10px;
+	
+}
+
+.ttt
+{
+	margin:10px;
+	height:222px;
+	width:370px;
+}
+	
+.tt
+{
+	margin:10px;
+	
+}
+.t
+{
+	margin:10px;
+	
+}
+
+.center
+{
+
+  
+  
+  font-family: 'Roboto', sans-serif;
+  
+
+}
+.center .container
+{
+	font-family: 'Roboto', sans-serif;
+	margin:0 auto;
+	
+}
+.center .container .form-inline
+{
+	
+	border-bottom:1px solid grey;
+	margin-bottom:10px;
+	width:105%;
+	 
+}
+.center .container .btn
+{
+	
+	margin-right:20px;
+	background-color:orange;
+	margin-bottom:5px;
+ 
+	
+}
+
+.center .container .spinner
+{
+	margin-left:10px;
+  
+}
+/* .lable
+{
+	 width: 127px;
+  height: 16px;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 300;
+  font-stretch: condensed;
+ 
+  text-align: left;
+  color: #060e59;
+  margin-right:100px;
+} */
+/* .form-control
+{
+
+  border: solid 1px #c6c7d3;
+} */
+
+/* .space .container
+{
+	
+	width:1200px;
+	margin-left:10px;
+	font-family: Roboto;
+	
+} */
+
+.social
+{
+	margin-top:200px;
+	height:95px;
+	background-color:#121b65;
+}
+
+.fa 
+{
+	padding-top:5px;
+	padding-left:5px;
+}
+
+.fa-facebook
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+.fa-instagram
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+.fa-twitter
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+
+.fa-youtube-play
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+.imgs
+{
+	
+	width:250px;
+	margin: 0 auto;
+	padding-top:20px;
+	
+	
+}
+.bar3
+{
+	
+	height:53px;
+	background-color:#121b65;
+}
+
+
+.bar3 .footer-nav 
+{
+	
+margin-left:300px;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+
+
+/* .bar3 .footer-nav  li
+{
+	
+display:inline;
+color:white;
+margin-left: 10px;
+float:left:10px;;
+font-family: 'Roboto', sans-serif;
+}
+ */
+
+
